@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0283-move-zeroes) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
@@ -35,5 +37,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
