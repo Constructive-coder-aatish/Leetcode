@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
@@ -91,6 +93,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
