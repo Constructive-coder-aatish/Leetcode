@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -83,5 +85,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
