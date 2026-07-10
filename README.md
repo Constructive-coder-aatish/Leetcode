@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -47,6 +48,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
@@ -65,6 +67,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
