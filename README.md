@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -93,6 +95,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
