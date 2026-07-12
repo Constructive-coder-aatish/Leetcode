@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
