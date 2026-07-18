@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -50,6 +51,7 @@
 | [0048-rotate-image](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0162-find-peak-element](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
