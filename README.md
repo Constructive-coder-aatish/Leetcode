@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Constructive-coder-aatish/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
